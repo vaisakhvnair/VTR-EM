@@ -1,11 +1,10 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-#define BLYNK_PRINT Serial    
-char auth[] = "nVcHzq_0LcuwjuuZSP-GTsRRFZ5hn5MK";
- 
+#define BLYNK_PRINT Serial 
 
-char ssid[] = "Vaisakh";
-char pass[] = "vaisakhvnair";
+char auth[] = "xxxxxxxxxxxxxx";
+char ssid[] = "xxxxxxxx";
+char pass[] = "xxxxxxxxxxx";
  
 BlynkTimer timer;
  
