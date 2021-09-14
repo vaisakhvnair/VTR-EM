@@ -3,9 +3,9 @@
 #include <BlynkSimpleEsp8266.h>
 #define BLYNK_PRINT Serial  
 #include <DHT.h>  
-char auth[] = "nVcHzq_0LcuwjuuZSP-GTsRRFZ5hn5MK";
-char ssid[] = "Vaisakh";
-char pass[] = "vaisakhvnair";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxx";
+char ssid[] = "xxxxxxx";
+char pass[] = "xxxxxxxxxxx";
 
 #define Buzzer D5
 #define DHTPIN 2          // Digital pin 4
