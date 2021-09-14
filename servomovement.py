@@ -10,7 +10,7 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(13,GPIO.OUT)
 GPIO.setup(7,GPIO.OUT)
 
-UDP_IP = "192.168.2.8"
+UDP_IP = "192.168.1"
 
 UDP_PORT = 5555  
 
