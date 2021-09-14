@@ -4,7 +4,7 @@
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
 
-char auth[] = "nVcHzq_0LjuuZSP-GTsRRFn5MK";
+char auth[] = "xxxxxxxxxxxxxxxx";
 char ssid[] = "xxxx";  
 char pass[] = "xxxxxxx"; 
 
