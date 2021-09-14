@@ -4,9 +4,9 @@
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
 
-char auth[] = "nVcHzq_0LcuwjuuZSP-GTsRRFZ5hn5MK";
-char ssid[] = "Vaisakh";  
-char pass[] = "vaisakhvnair"; 
+char auth[] = "nVcHzq_0LjuuZSP-GTsRRFn5MK";
+char ssid[] = "xxxx";  
+char pass[] = "xxxxxxx"; 
 
 #define DHTPIN 2          // Digital pin 4
 #define DHTTYPE DHT11     // DHT 11
